@@ -26,7 +26,7 @@ public:
     /**
      * @brief Static node identifier used in LoRa frames.
      */
-    static constexpr uint8_t NODE_ID = 3;
+    static constexpr uint8_t NODE_ID = 1;
     /**
      * @brief Constructs a slave controller with default runtime state.
      */
